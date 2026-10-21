@@ -102,6 +102,8 @@ mod storage_footprint_tests;
 #[cfg(test)]
 mod storage_key_invariant_tests;
 pub mod storage_version;
+/// Reserved storage key namespace for upgrade-safety gap slots (#815).
+pub mod storage_gap;
 #[cfg(test)]
 mod threshold_config;
 #[cfg(test)]
