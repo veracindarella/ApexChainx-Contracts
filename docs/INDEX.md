@@ -101,6 +101,7 @@ Legend:
 | Document | Status | Covers |
 |---|---|---|
 | [GOVERNANCE_REFERENCE.md](GOVERNANCE_REFERENCE.md) | **Reference** | Governance module reference (proposals, expiry, renounce) |
+| [GOVERNANCE_NATSPEC.md](GOVERNANCE_NATSPEC.md) | **Reference** | NatSpec-style doc-comment reference for all governance functions (#820) |
 | [PROPOSAL_EXPIRY_SEMANTICS.md](PROPOSAL_EXPIRY_SEMANTICS.md) | **Reference** | Proposal expiry semantics and events |
 | [OPERATOR_ROTATION_GUIDE.md](OPERATOR_ROTATION_GUIDE.md) | **Reference** | Operator handoff runbook |
 | [AUDIT_TRAIL.md](AUDIT_TRAIL.md) | **Reference** | Event audit-trail guarantees, incl. config-update actor attribution (#671) |
